@@ -1,0 +1,25 @@
+#!/bin/sh
+#
+#	mydiss/zzclean
+#
+#
+rm -f	*.aux \
+	*.bbl \
+        *.bcf \
+        *.run.xml \
+        *-nhblx.bib \
+	*.blg \
+	*.dvi \
+	*.idx \
+	*.ilg \
+	*.ind \
+	*.lof \
+	*.log \
+	*.lot \
+	*.ps  \
+        *.spl \
+        *.out \
+        *.fdb_latexmk \
+        *.fls
+	*.toc   2>/dev/null
+

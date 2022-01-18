@@ -1,0 +1,88 @@
+%--------------------------------%
+% Authors    : Gajanan Choudhary %
+%              Nikita Mathur     %
+% License    : MIT               %
+% About file : LaTeX Resume      %
+%--------------------------------%
+
+\RequirePackage{ifpdf}[2.3]
+\ifpdf
+  \pdfminorversion=7
+\fi
+
+\usepackage{cmap}  % For fixing copy pasting ligatures - ff, fi, fl, ffl, etc.
+%Partially deal with overfull hbox / vbox
+\usepackage[T1]{fontenc}
+\usepackage[final]{microtype}
+\usepackage{lmodern}
+%\usepackage{ebgaramond}
+
+% Some packages to write mathematics.
+%\usepackage{amsmath,amsthm,amsfonts,amscd} 
+%\usepackage{eucal} 	 	% Euler fonts
+%\usepackage{epsfig}    % Allows inclusion of eps files.
+%\usepackage{citesort}   % 
+
+\usepackage{url} 		% Allows good typesetting of web URLs.
+
+\usepackage{latexsym}
+%\usepackage{graphics}
+%\usepackage{epstopdf}
+%\usepackage{algorithmic}
+\usepackage{amssymb}
+\usepackage{booktabs, makecell}
+%\usepackage{bm}
+%\usepackage[section]{placeins}
+%\usepackage{xfp}
+\usepackage{enumitem}  % For indentation of bullets
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[referable]{threeparttablex}
+\usepackage{footnote}
+%\usepackage{cite} %% Had to comment out to prevent error
+%\usepackage{siamcleveref}       %
+
+%----------------------------------%
+% Need the following for Wordcloud %
+%----------------------------------%
+\usepackage{graphicx}         	% Allows inclusion of eps files.
+\usepackage{tikz}
+\usepackage{tikzscale}
+%\usepackage[percent]{overpic}
+%\usetikzlibrary{calc}
+%\usetikzlibrary{3d}
+\usepackage{wrapfig}
+\usepackage[utf8]{inputenc}
+\usepackage{anyfontsize}
+%\usepackage[export]{adjustbox} % Bounding box on figure
+\DeclareGraphicsExtensions{.tikz,.pdf} %.eps,.png,.jpg,
+
+\usepackage{contour}
+\usepackage[normalem]{ulem}
+
+%\newcommand{\recentyear}{1900} 
+%\usepackage[american]{babel}
+%\usepackage{csquotes}             % idk, babel/biber like it
+%\usepackage[style=apa,
+%            apamaxprtauth=99
+%            backend=biber,
+%            sortcites=true,
+%            sorting=ydmdnt,
+%            language=american]{biblatex}      % for reference sections
+%\addbibresource{CV.bib}
+
+%----------------------------------------------------------------%
+% Packages borrowed from (MIT licensed) github.com/sb2nov/resume %
+%----------------------------------------------------------------%
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+%\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+%\usepackage[english]{babel}
+\usepackage{tabularx}
+%-----------------------------------------------------------------%
+

@@ -1,0 +1,246 @@
+%--------------------------------%
+% Authors    : Gajanan Choudhary %
+%              Nikita Mathur     %
+% License    : MIT               %
+% About file : LaTeX Resume      %
+%--------------------------------%
+
+\documentclass[letterpaper,10pt]{article}
+
+\include{mypacks}
+\include{mymacros}
+
+\begin{document}
+
+%-----------------------------%
+% Customize your resume below %
+%-----------------------------%
+{\scshape\huge\Author}\vspace{2pt}
+%\href{\AuthorWebsiteLink}{\scshape\huge\Author}\vspace{2pt}
+
+\begin{small}
+  %Website: \href{\AuthorWebsiteLink}{\color[HTML]{0f4cb4}\myuline{\smash{\AuthorWebsiteText}}}
+  \href{\AuthorWebsiteLink}{\AuthorWebsiteText}
+
+  \vspace{2pt}\AuthorAddress
+
+  \vspace{1pt}\href{mailto:\AuthorEmail}{\AuthorEmail} |
+  \href{\AuthorPhoneLink}{\AuthorPhoneText}
+\end{small}
+
+%------------------------------------SUMMARY-----------------------------------%
+\section{Summary}
+Brand strategist with a graduate degree in advertising and 3.5 years of corporate experience in account
+management with diverse experience in digital, print, outdoor, events, and
+broadcast advertising. Skilled in brand strategies, primary and secondary research, marketing tools, data analytics, and data-informed decision-making.
+
+%------------------------------------HEADING-----------------------------------%
+\vspace{-168.4pt}
+
+\begin{wrapfigure}[-20]{R}{0pt} %{-3cm}
+
+  \centering
+
+  \begin{tikzpicture}[x=1in, y=-1in, every node/.style={right}] 
+
+    \node[color=uto]at (0.60,0.72){\huge Brand Strategist\space };
+
+    \begin{tinyb}
+
+      \node[color=uto]at (0.26,0.14){\scriptsize Visualization\space };
+      \node[color=uto]at (0.92,0.14){\footnotesize Data Analytics\space };
+      \node[color=utg]at (1.76,0.13){\tiny Social Listening\space };
+      \node[color=uto]at (2.50,0.15){\tiny Events\space };
+      \node[color=uto]at (1.23,0.24){\tiny Photoshop\space };
+      \node[color=utg]at (1.86,0.24){\footnotesize Campaign Planning\space };
+      \node[color=utg]at (2.45,0.31){\tiny GitHub\space };
+      \node[color=utg]at (0.23,0.31){\Large Market Research\space };
+      \node[color=uto]at (1.78,0.37){\normalsize Data Science\space };
+      \node[color=uto]at (0.28,0.47){\scriptsize Consumer Insights\space };
+      \node[color=utg]at (1.12,0.50){\scriptsize Brand Positioning\space };
+      \node[color=utg]at (2.01,0.51){\footnotesize Digital Marketing\space };
+      \node[color=utg]at (0.23,0.62){\scriptsize XLSTAT\space };
+      \node[color=utg]at (0.82,0.60){\scriptsize Statistics\space };
+      \node[color=utg]at (1.70,0.61){\tiny Print\space };
+      \node[color=utg]at (2.00,0.62){\tiny Survey\space };
+      \node[color=utg]at (0.36,0.74){\tiny Tableau\space };
+      \node[color=uto]at (2.57,0.69){\tiny Illustrator\space };
+      \node[color=utg]at (2.55,0.80){\scriptsize Metrics\space };
+      \node[color=uto]at (0.23,0.88){\scriptsize Secondary Research\space };
+      \node[color=utg]at (1.13,0.90){\normalsize Python\space };
+      \node[color=utg]at (1.62,0.85){\tiny Microsoft Office\space };
+      \node[color=utg]at (0.50,0.97){\tiny Qualtrics\space };
+      \node[color=utg]at (1.67,0.96){\scriptsize Primary Research\space };
+      \node[color=uto]at (0.30,1.05){\large Account Planning\space };
+      \node[color=utg]at (1.74,1.05){\tiny Media\space };
+      \node[color=uto]at (2.12,1.05){\tiny Advertising\space };
+      \node[color=utg]at (2.50,0.99){\huge R\space };
+      \node[color=utg]at (2.72,1.00){\tiny Git\space };
+      \node[color=utg]at (0.46,1.15){\footnotesize Brandwatch\space };
+      \node[color=utg]at (1.16,1.15){\tiny UT Austin\space };
+      \node[color=uto]at (1.70,1.14){\scriptsize Marketing Tools\space };
+      \node[color=uto]at (2.56,1.13){\tiny Outdoor\space };
+
+    \end{tinyb}
+
+%    \draw[color=gray] (current bounding box.north east) -- (current bounding box.north west) -- (current bounding box.south west) -- (current bounding box.south east) -- cycle;
+
+  \end{tikzpicture}
+
+\end{wrapfigure}
+
+\strut{} %% For ending wrapfig wrapping properly
+
+\vspace{155.4pt}
+
+\vspace{-2pt}
+%------------------------------PROGRAMMING SKILLS------------------------------%
+\section{Skills}
+  \resumeSubItemListStart
+    \resumeSubItem{Programming}{R and Python.}
+    \resumeSubItem{Knowledge}{Market research, data analysis, brand strategy, brand positioning, digital metrics, market segmentation, account planning, media planning, insight generation, statistics, and regression.}
+    \resumeSubItem{Applications}{Tableau, XLSTAT, SPSS, Brandwatch, Illustrator, InDesign, Photoshop, and MS Office.}
+  \resumeItemListEnd
+\vspace{-5pt}
+
+%-----------------------------------EDUCATION----------------------------------%
+\section{Education}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading{The University of Texas at Austin}{Austin, TX}
+
+      \resumeSubSubheading{Master of Arts in Advertising, GPA: 3.86}{\dates{August 2019}{December 2021}}
+
+    %\resumeSubheading{Indira Gandhi National Open University}{New Delhi, India}
+
+    %  \resumeSubSubheading{Postgraduate Diploma in Journalism and Mass Communication}{\dates{July 2018}{June 2019}}
+
+    %\resumeSubheading{EMDI Institute of Media and Communication}{Mumbai, India}
+
+    %  \resumeSubSubheading{Postgraduate Diploma in Advertising and Brand Communication}{\dates{June 2012}{June 2013}}
+
+    %\resumeSubheading{University of Mumbai}{Mumbai, India}
+
+    %  \resumeSubSubheading{Bachelor of Commerce}{\dates{June 2009}{March 2012}}
+
+  \resumeSubHeadingListEnd
+\vspace{-10pt}
+
+%-----------------------------------PROJECTS-----------------------------------%
+\section{Academic Projects}
+  \resumeSubHeadingListStart
+  
+    \resumeSubheading{Integrated Brand Promotion Campaign Plan, W3LL People}{Spring 2021}
+      \resumeItemListStart
+        \resumeUnlabeledItem{Designated brand strategist and media planner in a team of 6.}
+        \resumeUnlabeledItem{Conducted primary research by designing a Qualtrics survey to gather data and conducting one-on-one interviews for profiling the target audience.}
+        \resumeUnlabeledItem{Performed social listening using Brandwatch, and conducted SWOT and competitive analyses using information and data from Statista and Mintel.}
+        \resumeUnlabeledItem{Derived research and data-based consumer insights to propose the key campaign idea and execution plan.}
+        \resumeUnlabeledItem{Used SRDS and Winmo for budget and media planning.}
+      \resumeItemListEnd
+ 
+    \resumeSubheading{Data Analysis and Re-positioning, Upscale Hotel}{Fall 2020}
+      \resumeItemListStart
+        \resumeUnlabeledItem{Conducted factor and key driver analyses to group important attributes together and find the leading key drivers that are important for hotel customers.}
+        \resumeUnlabeledItem{Performed correspondence analysis to check if the client was associated with any differentiating attributes.}
+        \resumeUnlabeledItem{Used cluster analysis to identify and evaluate potential target audience and re-performed the key driver analysis to check which factor influences them the most.}
+        \resumeUnlabeledItem{Conducted multiple discriminant analysis to find the right opportunistic and differentiating attribute that the client could adopt.}
+        \resumeUnlabeledItem{Used digital and social media monitoring to determine the most prevalent talked-about factors online.}
+      \resumeItemListEnd
+      
+           
+    \resumeSubheading{Research and Data Analysis, Crunchyroll}{Spring 2020}
+      \resumeItemListStart
+        \resumeUnlabeledItem{Developed a research proposal stating the proposed plan details, budget, timeline, and desired outcomes.}
+        \resumeUnlabeledItem{Conducted consumer analysis using using Tableau and Microsoft Excel, and media and competitor analyses using Statista and Mintel as secondary research sources.}
+        \resumeUnlabeledItem{Reported recommendations and data insights based on survey and focus group datasets.}
+      \resumeItemListEnd
+      
+    \resumeSubheading{Media Planning, SHIFT initiative of The University of Texas at Austin}{Fall 2019}
+      \resumeItemListStart
+        \resumeUnlabeledItem{Developed an integrated campaign using paid, earned, shared, and owned media for UT's SHIFT initiative.}
+        \resumeUnlabeledItem{Built target audience personas by utilizing data from UT’s institutional repository, Mintel, and Statista.}
+        \resumeUnlabeledItem{Maximized reach by suggesting a pulsing pattern for media exposure based on research and target audience.}
+        \resumeUnlabeledItem{Proposed a communication campaign and media mix with both traditional and digital media vehicles along with their KPIs while optimizing the budget.}
+          \resumeItemListEnd
+    
+  \resumeSubHeadingListEnd
+\vspace{-5pt}
+
+%---------------------------------WORK EXPERIENCE------------------------------%
+\section{Work Experience}
+  \resumeSubHeadingListStart
+
+    %---------------------------------Title------------------------------------%
+    \resumeSubheading{Graduate Teaching Assistant}{\dates{September 2019}{January 2022}}
+ 
+      %-------------------------------Job 4------------------------------------%
+      \resumeSubSubheading{\textbf{The University of Texas at Austin}}{Austin, TX}
+        \resumeItemListStart
+          \resumeUnlabeledItem{Participated and graded real-world case studies on use of data and analytics in business situations.}
+          \resumeUnlabeledItem{Developed skills in various market research techniques for analyzing data using tools like XLSTAT, and using them to make better management decisions in advertising and public relations.}
+          \resumeUnlabeledItem{Developed an understanding of how marketing insights enhance decision-making in campaign planning, segmentation, positioning, product development, and promotion.}
+        \resumeItemListEnd
+
+    %---------------------------------Title------------------------------------%
+    \resumeSubheading{Senior Account Executive}{\dates{September 2017}{May 2018}}
+ 
+      %-------------------------------Job 3------------------------------------%
+      \resumeSubSubheading{\textbf{TAG Vinnatti}}{Mumbai, India}
+        \resumeItemListStart
+          \resumeUnlabeledItem{Managed 2 large-scale retainer accounts (NBFC and shopping malls) and 3 projects for the agency.}
+          \resumeUnlabeledItem{Led multiple campaigns for clients by handling events, digital videos, radio, outdoor, print and other promotions.}
+        \resumeItemListEnd
+
+    %---------------------------------Title------------------------------------%
+    \resumeSubheading{Account Executive}{\dates{November 2015}{April 2017}}
+
+    %---------------------------------Job 2------------------------------------%
+      \resumeSubSubheading{\textbf{Rickshaw Communication and Design}}{Mumbai, India}
+        \resumeItemListStart
+          \resumeUnlabeledItem{Handled 3 retainer clients (shopping mall, entertainment, and consumer goods companies), working with their major brand campaigns as well as daily creative requirements.}
+         
+       \resumeItemListEnd
+
+    %---------------------------------Title------------------------------------%
+    \resumeSubheading{Account Executive}{\dates{September 2014}{March 2015}}
+ 
+      %-------------------------------Job 1------------------------------------%
+      \resumeSubSubheading{\textbf{A B See Peninsular}}{Mumbai, India}
+        \resumeItemListStart
+          \resumeUnlabeledItem{Handled brands across many categories for the small-scale advertising agency and additionally performed administrative and recruitment roles.}
+          
+       \resumeItemListEnd
+  \resumeSubHeadingListEnd
+\vspace{-3pt}
+
+%-----------------------------VOLUNTEER EXPERIENCE-----------------------------%
+\section{Internship Experience}
+  \resumeSubHeadingListStart
+
+    %---------------------------------Title------------------------------------%
+    \resumeSubheading{Client Servicing Intern}{\dates{January 2014}{April 2014}}
+    
+      \resumeSubSubheading{\textbf{Publicis Groupe}}{Mumbai, India}
+        \resumeItemListStart
+          \resumeUnlabeledItem{Dealt with artworks and market research for
+            jewelry brand Tribhovandas Bhimji Zaveri (TBZ) and cosmetics brand
+            Lakmé.}
+        \resumeUnlabeledItem{Actively involved in event management with Lakmé
+            for India's largest fashion event, Lakmé Fashion Week.}
+        \resumeItemListEnd
+
+    %---------------------------------Title------------------------------------%
+    \resumeSubheading{Client Servicing Intern}{\dates{January 2013}{March 2013}}
+    
+      \resumeSubSubheading{\textbf{Concept Communications}}{Mumbai, India}
+        \resumeItemListStart
+          \resumeUnlabeledItem{Worked on ads for State Bank of India (SBI),
+            Mufti, and Indiabulls.}
+        \resumeItemListEnd
+  \resumeSubHeadingListEnd
+\vspace{-4pt}
+
+%------------------------------------THE END-----------------------------------%
+\end{document}
+
