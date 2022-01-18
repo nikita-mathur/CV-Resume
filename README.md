@@ -59,7 +59,7 @@ data-informed decision-making.
     and additionally performed administrative and recruitment roles.
 
 
-## Work Experience
+## Internship Experience
 * Client Servicing Intern, Publicis Groupe,
   Mumbai, India, January 2014 – April 2014
   - Dealt with artworks and market research for jewelry brand Tribhovandas
