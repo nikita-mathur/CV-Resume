@@ -73,11 +73,30 @@ data-informed decision-making.
 
 
 ## Education
-* The University of Texas at Austin,
+* Master of Arts (M.A.) in Advertising (GPA: 3.87),
+  The University of Texas at Austin,
   Austin, TX,
-  August 2019 - December 2021,
-  Master of Arts (M.A.) in Advertising,
-  GPA: 3.87.
+  August 2019 - December 2021.
+
+* Postgraduate Diploma in Journalism and Mass Communication,
+  Indira Gandhi National Open University,
+  New Delhi, India,
+  July 2018 - June 2019.
+
+* Postgraduate Diploma in Advertising and Brand Communication,
+  EMDI Institute of Media and Communication,
+  Mumbai, India,
+  June 2012 - June 2013.
+
+* Bachelor of Commerce,
+  University of Mumbai,
+  Mumbai, India,
+  June 2009 - March 2012.
+
+* Diploma in Advertising and Media,
+  EMDI Institute of Media and Communication,
+  Mumbai, India,
+  June 2010 - June 2011.
 
 
 ## Projects
