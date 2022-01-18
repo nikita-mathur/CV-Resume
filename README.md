@@ -41,34 +41,34 @@ data-informed decision-making.
     development, and promotion.
 
 * Senior Account Executive, TAG Vinnatti,
-  Mumbai, India, September 2017 – May 2018
+  Mumbai, India, September 2017 – May 2018.
   - Managed 2 large-scale retainer accounts (NBFC and shopping malls) and 3
     projects for the agency.
   - Led multiple campaigns for clients by handling events, digital videos,
     radio, outdoor, print and other promotions.
 
 * Account Executive, Rickshaw Communication and Design,
-  Mumbai, India, November 2015 – April 2017
+  Mumbai, India, November 2015 – April 2017.
   - Handled 3 retainer clients (shopping mall, entertainment, and consumer goods
     companies), working with their major brand campaigns as well as daily
     creative requirements.
 
 * Account Executive, A B See Peninsular,
-  Mumbai, India, September 2014 – March 2015
+  Mumbai, India, September 2014 – March 2015.
   - Handled brands across many categories for the small-scale advertising agency
     and additionally performed administrative and recruitment roles.
 
 
 ## Internship Experience
 * Client Servicing Intern, Publicis Groupe,
-  Mumbai, India, January 2014 – April 2014
+  Mumbai, India, January 2014 – April 2014.
   - Dealt with artworks and market research for jewelry brand Tribhovandas
     Bhimji Zaveri (TBZ) and cosmetics brand Lakme.
   - Actively involved in event management with Lakme for India’s largest fashion
     event, Lakme Fashion Week.
 
 * Client Servicing Intern, Concept Communications,
-  Mumbai, India, January 2013 – March 2013
+  Mumbai, India, January 2013 – March 2013.
   - Worked on ads for State Bank of India (SBI), Mufti, and Indiabulls.
 
 
@@ -101,7 +101,7 @@ data-informed decision-making.
 
 ## Projects
 * Integrated Brand Promotion Campaign Plan, W3LL People,
-  Spring 2021
+  Spring 2021.
   - Designated brand strategist and media planner in a team of 6.
   - Conducted primary research by designing a Qualtrics survey to gather data
     and conducting one-on-one interviews for profiling the target audience.
@@ -112,7 +112,7 @@ data-informed decision-making.
   - Used SRDS and Winmo for budget and media planning.
 
 * Data Analysis and Re-positioning, Upscale Hotel,
-  Fall 2020
+  Fall 2020.
   - Conducted factor and key driver analyses to group important attributes
     together and find the leading key drivers that are important for hotel
     customers.
@@ -127,7 +127,7 @@ data-informed decision-making.
     talked-about factors online.
 
 * Research and Data Analysis, Crunchyroll,
-  Spring 2020
+  Spring 2020.
   - Developed a research proposal stating the proposed plan details, budget,
     timeline, and desired outcomes.
   - Conducted consumer analysis using using Tableau and Microsoft Excel, and
@@ -137,7 +137,7 @@ data-informed decision-making.
     datasets.
 
 * Media Planning, SHIFT initiative of The University of Texas at Austin,
-  Fall 2019
+  Fall 2019.
   - Developed an integrated campaign using paid, earned, shared, and owned media
     for UT’s SHIFT initiative.
   - Built target audience personas by utilizing data from UT’s institutional
