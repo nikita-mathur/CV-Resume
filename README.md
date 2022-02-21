@@ -1,6 +1,6 @@
 # Nikita Mathur
 
-Address: Lake Austin Blvd., Austin, TX 78703
+Address: Victoria Drive, Cedar Park, TX 78613
 
 Phone: (512) 705-1771
 
@@ -20,12 +20,12 @@ data-informed decision-making.
 
 
 ## Skills
-* Programming: R and Python.
+* Programming: R, SQL, and Python.
+* Applications: Tableau, XLSTAT, SPSS, Brandwatch, Illustrator, InDesign,
+  Photoshop, and MS Office.
 * Knowledge: Market research, data analysis, brand strategy, brand
   positioning, digital metrics, market segmentation, account planning, media
   planning, insight generation, statistics, and regression.
-* Applications: Tableau, XLSTAT, SPSS, Brandwatch, Illustrator, InDesign,
-  Photoshop, and MS Office.
 
 
 ## Work Experience
@@ -46,6 +46,8 @@ data-informed decision-making.
     projects for the agency.
   - Led multiple campaigns for clients by handling events, digital videos,
     radio, outdoor, print and other promotions.
+  - Presented creative ideas and communication stategies to executive level
+    clients and stakeholders.
 
 * Account Executive, Rickshaw Communication and Design,
   Mumbai, India, November 2015 – April 2017.
@@ -102,7 +104,8 @@ data-informed decision-making.
 ## Projects
 * Integrated Brand Promotion Campaign Plan, W3LL People,
   Spring 2021.
-  - Designated brand strategist and media planner in a team of 6.
+  - Worked as the designated brand strategist and media planner in a team of 6
+    developing a campaign plan for W3LL People.                                  
   - Conducted primary research by designing a Qualtrics survey to gather data
     and conducting one-on-one interviews for profiling the target audience.
   - Performed social listening using Brandwatch, and conducted SWOT and
@@ -128,8 +131,9 @@ data-informed decision-making.
 
 * Research and Data Analysis, Crunchyroll,
   Spring 2020.
-  - Developed a research proposal stating the proposed plan details, budget,
-    timeline, and desired outcomes.
+  - Developed a research proposal with plan details, budget, and timeline to
+    create brand awareness and improve existing brand image of Crunchyroll among
+    animé fans.
   - Conducted consumer analysis using using Tableau and Microsoft Excel, and
     media and competitor analyses using Statista and Mintel as secondary
     research sources.
